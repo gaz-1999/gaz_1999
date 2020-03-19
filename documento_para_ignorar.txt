@@ -1,1 +1,4 @@
-jajajaja no me hacen caso
+jajajaja Me hacen caso
+
+
+Hasta que añadí .gitignore y ahora ni caso
